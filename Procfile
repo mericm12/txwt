@@ -1,1 +1,1 @@
-worker: python rss.py
+worker: playwright install chromium && python main.py
